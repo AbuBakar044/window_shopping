@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166343901319",
+    "project_id": "windowshopping-fb749",
+    "storage_bucket": "windowshopping-fb749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166343901319:android:4afea85a4a0b3a1ef6f822",
+        "android_client_info": {
+          "package_name": "com.example.window_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4qO550rK-EnzKJg03H3sIVpm3wXbQZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
